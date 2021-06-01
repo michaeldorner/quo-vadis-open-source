@@ -274,3 +274,15 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+#jupyter
+.DS_Store
+.ipynb_checkpoints
+.pytest_cache
+*.py[co]
+__pycache__
+*.egg-info
+
+*.code-workspace
+.history
+.vscode
