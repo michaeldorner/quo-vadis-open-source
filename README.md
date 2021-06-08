@@ -4,7 +4,7 @@
 
 ## Introduction
 
-With our study, we heavily rely on Open Hub (formerly known as Ohloh) and [its REST API](https://github.com/blackducksoftware/ohloh_api#ohloh-api-documentation). We collected our data during June 2021. This replication package aims to provide all necessary tools and (anonymized) data needed for a replication of our study or further research. 
+With our study, we heavily rely on [Open Hub](https://www.openhub.net) (formerly known as Ohloh) and [its REST API](https://github.com/blackducksoftware/ohloh_api#ohloh-api-documentation). We collected our data during June 2021. This replication package aims to provide all necessary tools and (anonymized) data needed for a replication of our study or further research. 
 
 
 ## Requirements
