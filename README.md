@@ -21,3 +21,8 @@ You will find three notebooks in the folder `notebooks`: `notebooks/01 Crawling.
 The data is stored in the subfolders of `data`, reflecting the raw data we have collected. The JSON files are named after their timestamp of collecting. Please notice that those datasets are already anonymized to confirm to the [Black Duck Academic Use Agreement](https://web.archive.org/web/20170619090829/https://blog.openhub.net/academic-use-agreement). The required anonymization happens already in `notebooks/01 Crawling.ipynb`. 
 
 All plots are stored in the folder `reports`. 
+
+
+# Licenses
+
+All code is licensed under MIT. Please consider the [Black Duck Academic Use Agreement](https://web.archive.org/web/20170619090829/https://blog.openhub.net/academic-use-agreement) regarding the data from Open Hub. 
