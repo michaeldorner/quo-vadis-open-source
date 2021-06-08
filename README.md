@@ -4,7 +4,7 @@
 
 ## Requirements
 
-We recommend a computer system with at least 10 GB storage and more than 32 GB RAM. If you want to recollect all data, you need Open Hub API keys which are not part of this repository, but can requested at www.openhub.com (please see [Introduction](#introduction) for more details).
+We recommend a computer system with at least 10 GB storage and more than 32 GB RAM. If you want to recollect all data, you need Open Hub API keys which are not part of this repository, but can requested at www.openhub.com (please see [Introduction](#introduction) for more details). Depending on the number of requests granted and your internet connection, the collection may take several days or even weeks. 
 
 For the tool-chain, you need:
 
