@@ -286,3 +286,4 @@ __pycache__
 *.code-workspace
 .history
 .vscode
+notebooks/api_keys.json
