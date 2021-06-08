@@ -2,6 +2,11 @@
 > Replication package of our paper "Quo Vadis, Open Source? The Limits of Open Source Growth" submitted to EMSE in 2021
 
 
+## Introduction
+
+With our study, we heavily rely on Open Hub (formerly known as Ohloh) and [its REST API](https://github.com/blackducksoftware/ohloh_api#ohloh-api-documentation). We collected our data during June 2021. This replication package aims to provide all necessary tools and (anonymized) data needed for a replication of our study or further research. 
+
+
 ## Requirements
 
 We recommend a computer system with at least 10 GB storage and more than 32 GB RAM. If you want to recollect all data, you need Open Hub API keys which are not part of this repository but can be requested at www.openhub.com (please see [Introduction](#introduction) for more details). Depending on the number of daily API requests granted and your internet connection, the complete collection may take several days or even weeks. 
@@ -14,7 +19,7 @@ For the tool-chain, you need:
 We also intend to provide a docker image soon.
 
 
-## Introduction
+## How to use
 
 You will find three notebooks in the folder `notebooks`: `notebooks/01 Crawling.ipynb`, `notebooks/02 Preprocessing.ipynb`, and `notebooks/03 Visualizing.ipynb` which covers the three different stages of our analysis. API keys are not in this repository. Create an Open Hub account and create API keys. On request, Open Hub grants you more requests per key for academic use. Those new API keys must be stored as list (e.g. `['acf1bc432008d31f4a55bceb3a810758', 'e8482e1918181239ca183440ed7ced40']`) in the file `notebooks/api_keys.json`. 
 
