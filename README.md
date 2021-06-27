@@ -32,4 +32,4 @@ All plots are stored in the folder `reports`.
 
 ## Licenses
 
-All data and code is under [CC BY](https://creativecommons.org/licenses/by/4.0/). Please also consider the [Black Duck Academic Use Agreement](https://web.archive.org/web/20170619090829/https://blog.openhub.net/academic-use-agreement) when retrieving data from Open Hub API. 
+All code is licensed under [MIT](LICENSE) and all data is licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/). Please also consider the [Black Duck Academic Use Agreement](https://web.archive.org/web/20170619090829/https://blog.openhub.net/academic-use-agreement) when retrieving data from Open Hub API. 
