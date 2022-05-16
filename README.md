@@ -1,5 +1,5 @@
 # Quo Vadis, Open Source? 
-> Replication package of our paper "Quo Vadis, Open Source? The Limits of Open Source Growth" submitted to EMSE in 2021
+> Replication package of our paper "Quo Vadis, Open Source? A Replication Study on Measuring the Growth of Open Source" submitted to PeerJ CS in 2022
 
 
 ## Introduction
